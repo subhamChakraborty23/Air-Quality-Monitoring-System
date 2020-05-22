@@ -12,6 +12,6 @@ This repository contains the arduino code required to program the hardware compo
 3.NOx,CO,CO2 sensors
 4.Temperature and Humidity Sensor
 5.Adafrit ADC
-
-
+# Observation:
+AQM SERVER LINK:http://aqm-test.herokuapp.com/
 
